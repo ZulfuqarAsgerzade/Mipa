@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 330 1440 880" role="img" aria-label="MiPA Company">
+  <defs>
+    <linearGradient id="silver" gradientUnits="userSpaceOnUse" x1="0" y1="600" x2="0" y2="780">
+      <stop offset="0" stop-color="#7d8590"/>
+      <stop offset="0.55" stop-color="#5d646d"/>
+      <stop offset="1" stop-color="#3f454c"/>
+    </linearGradient>
+    <linearGradient id="silver-h" gradientUnits="userSpaceOnUse" x1="560" y1="0" x2="980" y2="0">
+      <stop offset="0" stop-color="#4a5058"/>
+      <stop offset="0.5" stop-color="#8d949d"/>
+      <stop offset="1" stop-color="#4a5058"/>
+    </linearGradient>
+    <path id="star" d="M0,-24 L4.6,-11.1 L17,-17 L11.1,-4.6 L24,0 L11.1,4.6 L17,17 L4.6,11.1 L0,24 L-4.6,11.1 L-17,17 L-11.1,4.6 L-24,0 L-11.1,-4.6 L-17,-17 L-4.6,-11.1 Z"/>
+  </defs>
+  <g fill="#6b727b" stroke="none">
+    <use href="#star" transform="translate(1020.5 755.5) rotate(15)"/>
+    <use href="#star" transform="translate(941.1 892.1) rotate(45)"/>
+    <use href="#star" transform="translate(803.5 971.5) rotate(75)"/>
+    <use href="#star" transform="translate(644.5 971.5) rotate(105)"/>
+    <use href="#star" transform="translate(506.9 892.1) rotate(135)"/>
+    <use href="#star" transform="translate(427.5 755.5) rotate(165)"/>
+    <use href="#star" transform="translate(427.5 594.5) rotate(195)"/>
+    <use href="#star" transform="translate(506.9 457.9) rotate(225)"/>
+    <use href="#star" transform="translate(644.5 378.5) rotate(255)"/>
+    <use href="#star" transform="translate(803.5 378.5) rotate(285)"/>
+    <use href="#star" transform="translate(941.1 457.9) rotate(315)"/>
+    <use href="#star" transform="translate(1020.5 594.5) rotate(345)"/>
+  </g>
+  <g fill="none" stroke="url(#silver)" stroke-width="36" stroke-linejoin="miter" stroke-miterlimit="3">
+    <!-- Mi -->
+    <path d="M78,767 V628 L150,735 L222,628 V767"/>
+    <path d="M281,662 V767"/>
+    <!-- PA -->
+    <path d="M1168,767 V628 H1212 A42,42 0 0 1 1212,712 H1168"/>
+    <path d="M1295,767 L1365,650 L1435,767"/>
+    <path d="M1322,724 H1408"/>
+  </g>
+  <rect x="263" y="610" width="36" height="34" fill="url(#silver)"/>
+  <!-- italic mark: upright strokes sheared about the baseline -->
+  <g transform="translate(0 807) skewX(-29) translate(0 -807)" fill="none" stroke="url(#silver-h)" stroke-width="34" stroke-linejoin="round">
+    <path d="M542,807 V606 Q542,570 578,570 H786"/>
+    <path d="M626,639 H768 V776 H622 V705 H708"/>
+  </g>
+  <!-- COMPANY -->
+  <g fill="none" stroke="#6b727b" stroke-width="8" stroke-linejoin="miter">
+    <path d="M537.5,1114.4 A32,32 0 1 0 537.5,1155.6"/>
+    <circle cx="597" cy="1135" r="32"/>
+    <path d="M652,1170 V1100 L681,1150 L710,1100 V1170"/>
+    <path d="M733,1170 V1100 H757 A18,18 0 0 1 757,1136 H733"/>
+    <path d="M798,1170 L827,1100 L856,1170 M810,1145 H844"/>
+    <path d="M879,1170 V1100 L929,1170 V1100"/>
+    <path d="M950,1100 L980,1137 L1010,1100 M980,1137 V1170"/>
+  </g>
+</svg>

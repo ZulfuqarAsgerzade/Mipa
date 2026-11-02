@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="380 330 688 690">
+  <defs>
+    <linearGradient id="h" gradientUnits="userSpaceOnUse" x1="560" y1="0" x2="980" y2="0">
+      <stop offset="0" stop-color="#b4bbc5"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#b4bbc5"/>
+    </linearGradient>
+    <path id="s" d="M0,-30 L5.7,-13.9 L21.2,-21.2 L13.9,-5.7 L30,0 L13.9,5.7 L21.2,21.2 L5.7,13.9 L0,30 L-5.7,13.9 L-21.2,21.2 L-13.9,5.7 L-30,0 L-13.9,-5.7 L-21.2,-21.2 L-5.7,-13.9 Z"/>
+  </defs>
+  <rect x="380" y="330" width="688" height="690" rx="120" fill="#0b0d10"/>
+  <g fill="#d3d8de">
+    <use href="#s" transform="translate(1004 750)"/><use href="#s" transform="translate(931 875)"/><use href="#s" transform="translate(805 948)"/>
+    <use href="#s" transform="translate(643 948)"/><use href="#s" transform="translate(517 875)"/><use href="#s" transform="translate(444 750)"/>
+    <use href="#s" transform="translate(444 600)"/><use href="#s" transform="translate(517 475)"/><use href="#s" transform="translate(643 402)"/>
+    <use href="#s" transform="translate(805 402)"/><use href="#s" transform="translate(931 475)"/><use href="#s" transform="translate(1004 600)"/>
+  </g>
+  <g transform="translate(-6 -2) translate(0 807) skewX(-29) translate(0 -807)" fill="none" stroke="url(#h)" stroke-width="44" stroke-linejoin="round">
+    <path d="M542,807 V606 Q542,570 578,570 H786"/>
+    <path d="M626,639 H768 V776 H622 V705 H708"/>
+  </g>
+</svg>
